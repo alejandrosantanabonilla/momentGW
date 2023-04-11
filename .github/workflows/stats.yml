@@ -1,4 +1,4 @@
-name: dyson_stats_fork
+name: gw_stats_fork
 
 on:
   # Allows you to run this workflow manually from the Actions tab
